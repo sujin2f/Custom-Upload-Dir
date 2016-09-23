@@ -1,0 +1,3 @@
+[submodule "vendors/wp-express"]
+	path = vendors/wp-express
+	url = /Users/Sujin/Development/Wordpress/frameworks/wp_express
